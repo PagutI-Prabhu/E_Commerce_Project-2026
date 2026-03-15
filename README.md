@@ -1,5 +1,7 @@
 # E-Commerce Project using React
 
+🔗 Live Demo: https://e-commerce-project-2026.vercel.app
+
 This is a modern e-commerce web application built using React.
 
 ## Features
